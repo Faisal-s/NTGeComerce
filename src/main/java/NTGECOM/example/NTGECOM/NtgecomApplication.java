@@ -9,5 +9,5 @@ public class NtgecomApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NtgecomApplication.class, args);
 	}
-
+	//ahbedl
 }
